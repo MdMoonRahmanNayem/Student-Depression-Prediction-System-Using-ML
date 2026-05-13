@@ -1,4 +1,4 @@
-# Student Depression Prediction Using ML
+# Student Depression Prediction System Using ML
 
 A machine learning-based predictive analytics project focused on identifying depression risk among students using academic, behavioral, psychological, and lifestyle-related factors. The project applies data preprocessing, exploratory data analysis (EDA), and classification algorithms to analyze depression-related patterns and evaluate predictive model performance.
 
